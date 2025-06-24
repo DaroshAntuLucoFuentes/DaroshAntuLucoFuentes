@@ -103,9 +103,9 @@
       <div class="card">
         <strong>🎂 Fecha de nacimiento:</strong><br>
         24 de junio de 2004
+        <img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
       </div>
     </div>
-    <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
   </section>
 </body>
 </html>
