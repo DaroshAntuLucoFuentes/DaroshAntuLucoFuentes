@@ -39,7 +39,7 @@
       <div class="card">
         <strong>Portafolio Personal</strong>
         <p>Este mismo sitio web construido desde cero con HTML y CSS puro como página principal en GitHub.</p>
-        <a href="https://daroshluco.github.io" target="_blank">Ir al inicio →</a>
+        <a href="https://github.com/DaroshAntuLucoFuentes/Portafolio-profesional-Darosh-Luco" target="_blank">Ver en GitHub →</a>
       </div>
     </div>
   </section>
