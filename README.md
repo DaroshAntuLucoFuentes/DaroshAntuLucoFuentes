@@ -18,12 +18,14 @@
   </header>
   <section>
     <h2>Sobre mí</h2>
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
     <p>
       Soy estudiante de Ingeniería en Informática con conocimientos en desarrollo web y móvil, minería de datos, machine learning y aseguramiento de calidad (QA). Me apasiona aprender nuevas tecnologías y aplicar soluciones eficientes a problemas reales.
     </p>
   </section>
   <section>
     <h2>Proyectos</h2>
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
     <div class="projects">
       <div class="card">
         <strong>Minería de Datos Climáticos – Australia</strong>
@@ -46,6 +48,7 @@
   </section>
   <section>
     <h2>Habilidades</h2>
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
     <div class="category-title">🖥️ Desarrollo Web</div>
     <div class="skills">
       <div class="card">HTML, CSS, Bootstrap</div>
@@ -79,6 +82,7 @@
   </section>
   <section>
     <h2>Contacto</h2>
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
     <div class="skills">
       <div class="card">
         <strong>📧 Correo:</strong><br>
