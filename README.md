@@ -33,7 +33,7 @@
       <div class="card">
         <strong>Sitio de Información de Videojuegos</strong>
         <p>Página web que consume una API de videojuegos. Muestra juegos por plataforma, rankings y buscador personalizado.</p>
-        <a href="https://github.com/daroshluco/info-videojuegos" target="_blank">Ver en GitHub →</a>
+        <a href="https://github.com/daroshluco/info-videojuegos](https://github.com/DaroshAntuLucoFuentes/Sitio-Web-Informativo-De-League-of-Legends" target="_blank">Ver en GitHub →</a>
       </div>
       <hr>
       <div class="card">
