@@ -26,8 +26,8 @@
     <div class="projects">
       <div class="card">
         <strong>Minería de Datos Climáticos – Australia</strong>
-        <p>Análisis y predicción de precipitaciones usando datos históricos del clima en Australia. Uso de modelos de machine learning con Python, visualizaciones interactivas y limpieza de datos.</p>
-        <a href="https://github.com/daroshluco/proyecto-ml-mineria" target="_blank">Ver en GitHub →</a>
+        <p>Análisis y predicción de precipitaciones usando datos históricos del clima en Australia. Uso de modelos de machine learning con Python, Gráficos y limpieza de datos.</p>
+        <a href="https://github.com/DaroshAntuLucoFuentes/Proyecto-de-Mineria-de-datos" target="_blank">Ver en GitHub →</a>
       </div>
       <hr>
       <div class="card">
