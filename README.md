@@ -8,6 +8,7 @@
 <body>
   <header>
     <h1>Darosh Antu Luco Fuentes</h1>
+    <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
     <p>Desarrollador Web | Ciencia de Datos | QA Tester | Estudiante de Ingeniería en Informática</p>
     <div class="social-icons">
