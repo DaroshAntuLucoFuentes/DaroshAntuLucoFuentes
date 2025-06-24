@@ -44,9 +44,14 @@
         <p>Este mismo sitio web construido desde cero con HTML y CSS puro como página principal en GitHub.</p>
         <a href="https://github.com/DaroshAntuLucoFuentes/Portafolio-profesional-Darosh-Luco" target="_blank">Ver en GitHub →</a>
       </div>
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+      <div class="card">
+        <strong>Pruebas automatizadas con IntelliJ IDEA</strong>
+        <p>Proyecto de QA enfocado en pruebas automatizadas en Intellij IDEA con Gherkin</p>
+        <a href="https://github.com/DaroshAntuLucoFuentes/Proyecto-pruebas-automatizadas" target="_blank">Ver en GitHub →</a>
+      </div>
     </div>
   </section>
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
   <section>
     <h2>Habilidades</h2>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -100,6 +105,7 @@
         24 de junio de 2004
       </div>
     </div>
+    <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
   </section>
 </body>
 </html>
