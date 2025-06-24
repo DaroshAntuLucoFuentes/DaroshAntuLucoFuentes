@@ -29,13 +29,13 @@
         <p>Análisis y predicción de precipitaciones usando datos históricos del clima en Australia. Uso de modelos de machine learning con Python, Gráficos y limpieza de datos.</p>
         <a href="https://github.com/DaroshAntuLucoFuentes/Proyecto-de-Mineria-de-datos" target="_blank">Ver en GitHub →</a>
       </div>
-      <hr>
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
       <div class="card">
         <strong>Sitio de Información de Videojuegos</strong>
         <p>Página web que consume una API de videojuegos. Muestra juegos por plataforma, rankings y buscador personalizado.</p>
         <a href="https://github.com/DaroshAntuLucoFuentes/Sitio-Web-Informativo-De-League-of-Legends" target="_blank">Ver en GitHub →</a>
       </div>
-      <hr>
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
       <div class="card">
         <strong>Portafolio Personal</strong>
         <p>Este mismo sitio web construido desde cero con HTML y CSS puro como página principal en GitHub.</p>
@@ -52,13 +52,13 @@
       <div class="card">Python, Django</div>
       <div class="card">Consumo de APIs</div>
     </div>
-    <hr>
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
     <div class="category-title">📱 Desarrollo Móvil</div>
     <div class="skills">
       <div class="card">Ionic Framework</div>
       <div class="card">Angular</div>
     </div>
-    <hr>
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
     <div class="category-title">📊 Ciencia de Datos</div>
     <div class="skills">
       <div class="card">Python, Pandas, Numpy</div>
@@ -66,7 +66,7 @@
       <div class="card">TensorFlow, PyTorch</div>
       <div class="card">Power BI, ETL</div>
     </div>
-    <hr>
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
     <div class="category-title">🧪 QA y Testing</div>
     <div class="skills">
       <div class="card">Pruebas Funcionales y No Funcionales</div>
