@@ -88,17 +88,12 @@
         <strong>📧 Correo:</strong><br>
         <a href="mailto:darosh.luco@gmail.com" style="color: #38bdf8;">darosh.luco@gmail.com</a>
       </div>
-      <hb>
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
       <div class="card">
         <strong>📞 Teléfono:</strong><br>
         +56 9 2644 7621
       </div>
-        <hb>
-      <div class="card">
-        <strong>📍 Dirección:</strong><br>
-        Pasaje San Álvaro #1994<br>Maipú, Región Metropolitana, Santiago, Chile
-      </div>
-          <hb>
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
       <div class="card">
         <strong>🎂 Fecha de nacimiento:</strong><br>
         24 de junio de 2004
