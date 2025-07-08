@@ -50,6 +50,12 @@
         <p>Proyecto de QA enfocado en pruebas automatizadas en Intellij IDEA con Gherkin</p>
         <a href="https://github.com/DaroshAntuLucoFuentes/Proyecto-pruebas-automatizadas" target="_blank">Ver en GitHub →</a>
       </div>
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+      <div class="card">
+        <strong>Primer proyecto hecho con react + node + express + mongodb</strong>
+        <p>Proyecto de desarrollo web para administración y gestión de tareas, es un avance del objetivo</p>
+        <a href="https://github.com/DaroshAntuLucoFuentes/my-fullstack-app" target="_blank">Ver en GitHub →</a>
+      </div>
     </div>
   </section>
   <section>
