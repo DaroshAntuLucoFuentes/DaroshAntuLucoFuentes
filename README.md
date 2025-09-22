@@ -9,7 +9,7 @@
   <header>
     <h1>Darosh Antu Luco Fuentes</h1>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-    <p>Desarrollador Web | Ciencia de Datos | QA Tester | Estudiante de Ingeniería en Informática</p>
+    <p>Desarrollo Web | Ciencia de Datos | QA Tester | Automatizador | Agentes de IA</p>
     <div class="social-icons">
       <a href="https://github.com/daroshluco" target="_blank"><i class="fab fa-github"></i></a>
       <a href="https://linkedin.com/in/daroshluco" target="_blank"><i class="fab fa-linkedin"></i></a>
