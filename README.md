@@ -63,16 +63,16 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
     <div class="category-title">🖥️ Desarrollo Web</div>
     <div class="skills">
-      <div class="card">HTML, CSS, Bootstrap</div>
-      <div class="card">JavaScript, React</div>
-      <div class="card">Python, Django</div>
+      <div class="card">HTML, CSS y Javascript</div>
+      <div class="card">Bootstrap y React</div>
+      <div class="card">Django y Node</div>
       <div class="card">Consumo de APIs</div>
     </div>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
     <div class="category-title">📱 Desarrollo Móvil</div>
     <div class="skills">
       <div class="card">Ionic Framework</div>
-      <div class="card">Angular</div>
+      <div class="card">PWA</div>
     </div>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
     <div class="category-title">📊 Ciencia de Datos</div>
@@ -86,9 +86,9 @@
     <div class="category-title">🧪 QA y Testing</div>
     <div class="skills">
       <div class="card">Pruebas Funcionales y No Funcionales</div>
-      <div class="card">Selenium con IntelliJ</div>
-      <div class="card">Gherkin & Cucumber</div>
-      <div class="card">JMeter</div>
+      <div class="card">Pruebas automatizadas</div>
+      <div class="card">Pruebas de rendimiento</div>
+      <div class="card">Pruebas de seguridad</div>
       <div class="card">Casos y escenarios de prueba</div>
     </div>
   </section>
